@@ -4,7 +4,7 @@ Brief description of your project.
 
 ## Assignment Link
 
-[Click here to view the assignment](https://example.com/assignment-link)
+[Click here to view the assignment](https://dashboardcustom.netlify.app/)
 
 ## Steps to Run the Project
 
