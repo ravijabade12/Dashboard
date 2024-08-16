@@ -1,6 +1,6 @@
-# Project Title
+Dashboard
 
-Brief description of your project.
+This project, titled "Dashboard," is a web application designed to display user data in a visually appealing and organized manner. The application is built using Vite and React, two popular tools for creating modern web applications. The project's purpose is to provide a centralized hub for users to access and view their personal information, such as profile details, recent activities, and relevant data.
 
 ## Assignment Link
 
