@@ -1,0 +1,51 @@
+{
+  "categories": [
+    {
+      "id": "cspm",
+      "name": "CSPM Executive Dashboard",
+      "widgets": [
+        {
+          "id": "widget1",
+          "name": "Security Posture",
+          "text": "Overview of security posture.",
+          "image":"https://i.pinimg.com/564x/ad/ef/de/adefdeae1bf5debcffa17cf6fb5bf425.jpg"
+        },
+        {
+          "id": "widget2",
+          "name": "Compliance Status",
+          "text": "Compliance across environments.",
+          "image":"https://i.pinimg.com/236x/da/7c/0d/da7c0d4f56da32d7b027901d191eb172.jpg"
+
+        }
+        
+      ]
+    },
+    {
+      "id": "cwpp",
+      "name": "CWPP Dashboard",
+      "widgets": [
+        {
+          "id": "widget4",
+          "name": "Workload Protection",
+          "text": "Protection for workloads.",
+          "image":"https://i.pinimg.com/564x/6e/21/bc/6e21bc06dd0c8770cfd970d31cba2079.jpg"
+
+        }
+      ]
+    },
+    {
+      "id": "registry",
+      "name": "Registry Scan Dashboard",
+      "widgets": [
+        {
+          "id": "widget5",
+          "name": "Container Vulnerabilities",
+          "text": "Scan for vulnerabilities in container registries.",
+          "image":"https://i.pinimg.com/564x/43/6c/a4/436ca4ddd5d55e93cc87a05db1a8c89c.jpg"
+
+        }
+      ]
+    }
+  ]
+}
+

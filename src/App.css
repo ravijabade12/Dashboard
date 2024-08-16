@@ -1,0 +1,43 @@
+.widget {
+    background-color: white;
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    width: 400px;
+    height: 220px;
+    /* box-shadow: 2px 2px -2px -2px 5px black; */
+}
+
+.add-widget {
+    margin-top: 10px;
+}
+
+.add-widget input {
+    margin-right: 5px;
+}
+
+.add-widget button {
+    background-color: #28a745;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+}
+
+.empty-widget {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    cursor: pointer;
+    /* transition: background-color 0.3s ease; */
+    background-color: white;
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    width: 400px;
+    height: 220px;
+}
